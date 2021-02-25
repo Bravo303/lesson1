@@ -43,7 +43,7 @@ print(numbers)
 weather = {"city": "Москва", "temperature": "20"}
 print(weather["city"])
 
-weather["temperature"] = 15
+weather[2] = 20 - 5
 print(weather)
 
 
